@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Barcode Scanner</string>
+
+    <string name="close">Close</string>
+    <string name="open">Open</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enable_sound">enable_sound</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9682914443031440/9385098412</string>
+
+</resources>
